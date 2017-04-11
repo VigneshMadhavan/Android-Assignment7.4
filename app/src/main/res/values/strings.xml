@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">A7.4</string>
+
+    <string name="col1">ID</string>
+    <string name="col2">First Name</string>
+    <string name="col3">Last Name</string>
+</resources>
